@@ -52,9 +52,10 @@ Ma mission : allier rigueur technique et analyse de précision pour optimiser la
 ---
 
 ### 📫 Me contacter
-* **LinkedIn :** lien a remplir
+* **LinkedIn :** https://www.linkedin.com/in/daniele-douanla-619ba6375/
 * **Email :** ddraissa15@gmail.com
-* **Portfolio Personnel :** Lien a remplir
+* **Portfolio Personnel :** https://danieledouanla.github.io/
+
 
 
 
